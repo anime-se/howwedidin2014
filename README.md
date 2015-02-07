@@ -1,37 +1,34 @@
-Below are the overall results from the survey regarding how we did in 2014. Every section has a **short and a long answer**, so you can skip the ginormous wall of text. I'm gonna try to keep the positive stuff a bit shorter, so as to reduce the length of the post, and to allow us to focus on what needs to be changed. If you feel anything was left out, either point it out, edit it in, or contact a [mod][1] (we can create a private room to discuss, if you prefer). Also, feel free to comment on this answer, and open any individual meta posts on the topics mentioned here.
+Below are the overall results from the survey regarding how we did in 2014. There's a **tl;dr version at the bottom**, so you can skip the ginormous wall of text. I'm gonna try to keep the positive stuff a bit shorter, so as to reduce the length of the post, and to allow us to focus on what needs to be changed. If you feel anything was left out, either point it out, edit it in, or contact a [mod][1] (we can create a private room to discuss, if you prefer). Also, feel free to comment on this answer, and open any individual meta posts on the topics mentioned here.
 
 ## How did we do in 2014? ##
-**Short answer: 7.(45)/10**
-
-**Long(er) answer:** We received 12 answers to our survey, with an *average score of 7.(45)* (leaving out one user that did not answer), with scores *ranging from 4 to 9*.  
+We received 12 answers to our survey, with an **average score of 7.(45)** (leaving out one user that did not answer), with scores **ranging from 4 to 9.**  
 
 ## What did we do well? ##
-**Short answer: Improved quality of posts, increase in visitors/users, greater overall visibility of the site.**
-
-**Long(er) answer:** Overall, *we have been growing, both in content quality and number of users/visitors.* The *implementation of guidelines for id-requests* was mentioned, also pointing out that they are flawed and may not work well for new users.  
-We have been gathering some *more visibility from search engines*, and have a good group of *"engaged, knowledgeable, respectful and helpful users."*  
-Also mentioned were: *our chat rooms are fun; the mod/edit tools are good; a greater "interaction with community via events/question pushes"; and, of course, [our first ever gift exchange][2].*
+Overall, **we have been growing, both in content quality and number of users/visitors.** The **implementation of guidelines for id-requests** was mentioned, also pointing out that they are flawed and may not work well for new users.  
+We have been gathering some **more visibility from search engines, and have a good group of "engaged, knowledgeable, respectful and helpful users."**  
+Also mentioned were: **our chat rooms are fun; the mod/edit tools are good; a greater "interaction with community via events/question pushes"; and, of course, [our first ever gift exchange][2].**
 
 ## Where can we improve? ##
-**Short answer: Hit-and-run users, overall quality of content (special focus on id-reqs), improve and enforce guidelines.**
-
-**Long answer:** Despite the fact that in the previous section most of the users saw improvements on the general quality of our posts, *low-quality of posts* was also mentioned in this section. With particular *emphasis on the id-requests*. Their overall quality is bad (despite our guidelines), and most of them are asked by *hit-and-run users*. That means we need to *"attract and keep good users"*. It was also suggested that we should try to *make some sort of event for recommendations*, thus possibly attracting some new users, whose tastes go *"beyond Naruto, One Piece, and Death Note."*  
-The overall *visibility and clarity of how we work* were brought up, with special attention to *little attention toward meta posts, the fact that most people seem uneducated about voting and closing (and how they're not necessarily connected), how we seem to have some friction toward changing already implemented policies/guidelines, and how many of those guidelines are based on "well, we once allowed this..." kind of decisions.*  
+Despite the fact that in the previous section most of the users saw improvements on the general quality of our posts, **low-quality of posts** was also mentioned in this section. With particular **emphasis on the id-requests**. Their overall quality is bad (despite our guidelines), and most of them are asked by **hit-and-run users**. That means we need to **"attract and keep good users"**. It was also suggested that we should try to **make some sort of event for recommendations, thus possibly attracting some new users, whose tastes go "beyond Naruto, One Piece, and Death Note."**  
+The overall **visibility and clarity of how we work** were brought up, with special attention to **little attention toward meta posts, the fact that most people seem uneducated about voting and closing (and how they're not necessarily connected), how we seem to have some friction toward changing already implemented policies/guidelines, and how many of those guidelines are based on "well, we once allowed this..." kind of decisions.* * 
 Users think we basically rather down-vote the bad stuff than up-vote the good stuff, sometimes take down-votes as a synonym for "should be closed", and many times don't close question that should be closed because of their number of up-votes.
 
 ## How would you rank your moderators? ##
-**Short answer: 9.(09)/10** <sup>*thank you!*</sup>
-
-**Long(er) answer:** Of the 12 answers, one user did not rate us, the rest *averaged 9.(09), ranging from 7 to 10.* Looks like we did good ;)
+Of the 12 answers, one user did not rate us, the rest **averaged 9.(09), ranging from 7 to 10.** Looks like we did good ;) thank you
 
 ## What can us mods do to improve? ##
-**Only answer: Better engagement with the community, make decision confirmations clearer, and try to get our schedules to better complement each other.** 
+Better engagement with the community, make decision confirmations clearer, and try to get our schedules to better complement each other. 
+
+
+## tl;dr ##
+**Good:** We got a score of 7.(45)/10; the quality of posts improved, visitors/users number rose, greater overall visibility of the site; mods rated 9.(09)/10, need to improve on engagement with the community, making decision confirmations clearer, and try to get our schedules to better complement each other.  
+**Bad:** Hit-and-run users, overall quality of content (special focus on id-reqs), improve and enforce guidelines
 
 With the above, the general opinions of users regarding the past year have been covered. 
 
 ---
 
-Below, will be the results of the topics we presented as up to discussion in the next chat casts. Here I will not present short and long answers, but a single answer per entry.
+Below, will be the results of the topics we presented as up to discussion in the next chat casts.
  
 ## On the topic of... ##
 
